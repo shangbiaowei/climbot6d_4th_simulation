@@ -1,0 +1,2 @@
+fourthClimbotSim/mr_simulation:fourthClimbotSim/robot_description
+-DCATKIN_DEVEL_PREFIX=/home/wei/ros/fourthClimbotSimulation/devel -DCMAKE_INSTALL_PREFIX=/home/wei/ros/fourthClimbotSimulation/install -G Unix Makefiles
